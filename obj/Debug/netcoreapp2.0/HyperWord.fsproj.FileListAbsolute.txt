@@ -1,0 +1,6 @@
+C:\Users\Viktor Hansen\source\repos\HyperWord\HyperWord\bin\Debug\netcoreapp2.0\HyperWord.deps.json
+C:\Users\Viktor Hansen\source\repos\HyperWord\HyperWord\bin\Debug\netcoreapp2.0\HyperWord.dll
+C:\Users\Viktor Hansen\source\repos\HyperWord\HyperWord\bin\Debug\netcoreapp2.0\HyperWord.pdb
+C:\Users\Viktor Hansen\source\repos\HyperWord\HyperWord\obj\Debug\netcoreapp2.0\HyperWord.fsprojResolveAssemblyReference.cache
+C:\Users\Viktor Hansen\source\repos\HyperWord\HyperWord\obj\Debug\netcoreapp2.0\HyperWord.dll
+C:\Users\Viktor Hansen\source\repos\HyperWord\HyperWord\obj\Debug\netcoreapp2.0\HyperWord.pdb
